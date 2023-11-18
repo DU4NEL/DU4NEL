@@ -1,6 +1,8 @@
 <h1>Hola Mundo</h1>
 
-<p><strong>I am a 17 year old aspiring Front-End web developer living in the Dominican Republic. So far I have had internships and projects in both HTML and CSS, now I am learning JavaScript to give more features to my websites.</strong></p>
+<img src=images/Header-Readme.webp>
+
+<p><strong>I'm a 17 year old aspiring Front-end web developer and graphic designer living in the Dominican Republic. So far I have had internships and projects in both HTML and CSS, now I am learning JavaScript to give more features to my websites.</strong></p>
 
 <h2 align="center">Languages:</h2>
 
