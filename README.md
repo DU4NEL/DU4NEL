@@ -14,7 +14,5 @@
 
 ### Documentation & Learning
 
-<div><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" title="YouTube" alt="YouTube"></div>
-<div><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" title="MDN Web Docs" alt="MDN Web Docs"></div>
-<div><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=whithe" title="FreeCodeCamp" alt="FreeCodeCamp"></div>
-<div><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy"></div>
+<p><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" title="YouTube" alt="YouTube"> <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" title="MDN Web Docs" alt="MDN Web Docs"> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=whithe" title="FreeCodeCamp" alt="FreeCodeCamp">
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy"></p>
