@@ -40,6 +40,8 @@
 
 </div>
 
+<hr>
+
 <h3 align="center">Documentation and learning:</h3>
 
 <div align="center">
@@ -48,5 +50,17 @@
 <img src="images//SVG%20shields/MDN_Web_Docs-black.svg" title="MDN" alt="MDN">
 <img src="images/SVG%20shields/Udemy-EC5252.svg" title="Udemy" alt="Udemy">
 <img src="images/SVG%20shields/YouTube-FF0000.svg" title="YouTube" alt="YouTube">
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+
+![DU4NEL's Stats](https://github-readme-stats.vercel.app/api?username=DU4NEL&theme=nord&show_icons=true&hide_border=true&count_private=false)
+
+![DU4NEL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DU4NEL&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 </div>
