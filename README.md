@@ -4,7 +4,7 @@
 
 <br>
 
-<p><strong>I'm a 17 year old aspiring Front-end web developer and graphic designer living in the Dominican Republic. So far I have had internships and projects in both HTML and CSS, now I am learning JavaScript to give more features to my websites.</strong></p>
+<p align="center"><strong>I'm a 17 year old aspiring Front-end web developer and graphic designer living in the Dominican Republic. So far I have had internships and projects in both HTML and CSS, now I am learning JavaScript to give more features to my websites.</strong></p>
 
 <h3 align="center"> Contact: </h3>
 
